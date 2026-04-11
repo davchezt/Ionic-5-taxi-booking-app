@@ -12,20 +12,9 @@
 
 <p align="center">
   <a href="https://youtu.be/qmvMEZHhqGw"><strong>▶️ Click Here to Watch the Full Video Walkthrough</strong></a><br>
+  
 
-> 🚀 **Looking for the latest production-ready version?** > Get the fully updated **Ionic 8 & Angular 18** source code, complete with premium support and comprehensive documentation, at **[SellJustCode.com](https://selljustcode.com)**.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Ionic-8.0-3880FF?style=for-the-badge&logo=ionic&logoColor=white" alt="Ionic 8" />
-  <img src="https://img.shields.io/badge/Angular-18.2-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular 18" />
-  <img src="https://img.shields.io/badge/Capacitor-6.1-119EFF?style=for-the-badge&logo=capacitor&logoColor=white" alt="Capacitor 6" />
-  <img src="https://img.shields.io/badge/Firebase-11.0-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Node.js-22.0-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node" />
-</p>
-
----
-
+> 🚀 **Looking for the latest production-ready version?** > Get the fully updated **Ionic 8 & Angular 18** source code, complete with premium support and comprehensive documentation, at **[SellJustCode.com](https://selljustcode.com/product/prod_1775813894418)**.
 ## 🎮 Try Before You Buy (Live Demos)
 Experience the speed and elegance of the entire 5-part ecosystem right in your browser.
 
@@ -47,7 +36,25 @@ Experience the speed and elegance of the entire 5-part ecosystem right in your b
   <a href="https://pegasus-superapp-monorepo-9tuw.vercel.app/">
     <img src="https://img.shields.io/badge/💻%20B2B_Dispatcher_-F97316?style=for-the-badge&logo=ionic&logoColor=white" alt="Dispatch Demo" height="40" />
   </a>
+    <a href="https://drive.google.com/drive/folders/14PLJyFE9DSD0Yi3reAs6IwfxpAKxGG_h">
+    <img src="https://img.shields.io/badge/🏪%20APK_-E11D48?style=for-the-badge&logo=ionic&logoColor=white" alt="APK DEMO" height="40" />
+  </a>
 </p>
+
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Ionic-8.0-3880FF?style=for-the-badge&logo=ionic&logoColor=white" alt="Ionic 8" />
+  <img src="https://img.shields.io/badge/Angular-18.2-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular 18" />
+  <img src="https://img.shields.io/badge/Capacitor-6.1-119EFF?style=for-the-badge&logo=capacitor&logoColor=white" alt="Capacitor 6" />
+  <img src="https://img.shields.io/badge/Firebase-11.0-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/Node.js-22.0-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node" />
+</p>
+
+---
+
+
+
 
 ---
 
